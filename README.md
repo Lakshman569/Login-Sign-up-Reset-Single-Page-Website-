@@ -1,6 +1,6 @@
 # Login-Sign-up-Reset-Single-Page-Website
 
-[Click To View](https://audiophile-shop-for-blind-people.netlify.app/)
+[Click To View](https://sahilspatil.github.io/Login-Sign-up-Reset-Single-Page-Website-/)
 
 ![Design preview for the Shortly URL shortening API coding challenge](./images/image.png)
 
